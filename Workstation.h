@@ -1,12 +1,4 @@
-//==============================================
-// Name:           Anshul Gandhi
-// Student Number: 140953191	
-// Email:          agandhi29@myseneca.ca
-// Section:        BTP305-NAA
 
-// Date:		   4-dec-2021
-// I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
-//==============================================
 
 #ifndef SDDS_WORKSTATION_H
 #define SDDS_WORKSTATION_H
