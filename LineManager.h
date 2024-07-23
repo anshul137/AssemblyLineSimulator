@@ -1,5 +1,3 @@
-
-
 #ifndef SDDS_LINEMANAGER_H
 #define SDDS_LINEMANAGER_H
 #include <vector>
